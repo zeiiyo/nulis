@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "zaa": "nodemon ./bin/www"
+    "start": "node index.js"
   },
   "author": "eswhon",
   "dependencies": {
