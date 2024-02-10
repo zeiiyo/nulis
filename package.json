@@ -2,7 +2,7 @@
   "name": "nulis-online",
   "version": "1.0.0",
   "scripts": {
-    "zaa": "nodemon ./bin/www"
+    "zaa": "nodemon ./bin/www",
     "start": "node index.js"
   },
   "author": "eswhon",
